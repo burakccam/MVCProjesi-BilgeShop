@@ -1,0 +1,2 @@
+# MVCProjesi-BilgeShop
+BilgeShop Projesi 
