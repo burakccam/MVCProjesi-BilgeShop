@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BilgeShop.Business.Dtos
+{
+    public class ListCategoryDto //Business'tan webUI'ya taşıyacak
+    {
+        public int Id { get; set; }
+
+        public string Name { get; set; }
+
+
+    }
+}
